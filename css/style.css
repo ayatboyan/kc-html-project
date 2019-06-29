@@ -1,0 +1,74 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.navbar{
+    background-color: #23415C;
+    padding: 1% 0;
+    font-size: 1.2em;
+}
+.navbar-brand{
+    min-height: 55px;
+    padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a{
+    color: #D5D5D5;
+}
+.navbar-default .navbar-nav li a:hoover, .navbar-default .navbar-nav li a.active{
+    color: #090809;
+}
+#home{
+    background: url(../images/renang.jpg) no-repeat right fixed;
+    display: table;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+.landing-text{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.landing-text h1{
+    font-size: 500%;
+    font-weight: 500;
+}
+.padding{
+    padding: 80px 0;
+}
+.padding img{
+    width: 100%;
+}
+#fixed{
+    background: url(../images/main.jpg) no-repeat right fixed;
+    display: table;
+    height: 60%;
+    width: 100%;
+    background-size: cover;
+}
+footer{
+    width: 100%;
+    background-color: #23415C;
+    padding: 3%;
+    color: #FFF;
+}
+.fa{
+    padding: 15px;
+    font-size: 25px;
+    color: #FFF;
+}
+.fa:hoover{
+    color: #D5D5D5;
+    text-decoration: none;
+}
+.icon{
+    max-width: 100px;
+}
+
+
+
+
+
+
+
+
