@@ -39,6 +39,7 @@ html, body{
 .padding img{
     width: 100%;
 }
+
 #fixed{
     background: url(../images/main.jpg) no-repeat right fixed;
     display: table;
